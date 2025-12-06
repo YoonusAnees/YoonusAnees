@@ -74,7 +74,7 @@
 
 ---
 
-# 📊 GitHub Stats (Dark Minimal)
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -138,5 +138,6 @@ Mobile app using **Expo**, pull-to-refresh, API fetching, modern UI.
 ---
 
 <h3 align="center">⭐ If you like my work, consider giving a star to my projects!</h3>
+
 
 
