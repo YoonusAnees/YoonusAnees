@@ -2,7 +2,7 @@
 <h1 align="center">🔥 Welcome to My GitHub — I'm <strong>Yoonus Anees</strong> 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineer;React+|+Node+|+.NET+|+PHP+|+Spring+Boot;Building+Modern+Web+Apps;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;React+|+Node+|+.NET+|+PHP+|+Spring+Boot;Building+Modern+Web+Apps;Always+Learning+🚀">
 </p>
 
 ---
@@ -96,34 +96,6 @@
 
 ---
 
-
-
----
-
-# 💼 Featured Projects
-
-### 🔹 **Cozy Comfort – Blanket Manufacturing System**
-**React + .NET + SQL + API**  
-Role-based login, sellers, distributors, inventory & blanket distribution.
-
----
-
-### 🔹 **Pahana Edu Billing System**
-Java Servlets + SOLID design  
-Billing, admin system, file-based storage, UML, TDD.
-
----
-
-### 🔹 **Serenity Villa Booking System**
-Hotel booking platform using **PHP + MySQL**, conflict-checking, room management.
-
----
-
-### 🔹 **React Native API App**
-Mobile app using **Expo**, pull-to-refresh, API fetching, modern UI.
-
----
-
 # 🔗 Connect With Me
 
 <div align="left">
@@ -138,6 +110,7 @@ Mobile app using **Expo**, pull-to-refresh, API fetching, modern UI.
 ---
 
 <h3 align="center">⭐ If you like my work, consider giving a star to my projects!</h3>
+
 
 
 
